@@ -1,5 +1,4 @@
-Dogglers
-========
+# Dogglers
 
 A Independent, test driven project of the [Android Basics in Kotlin] course from Google, see [Unit 2] Pathway 3 [[Display a scrollable list]:https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-3] and the [Project Dogglers app] Codelab.
 
