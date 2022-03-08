@@ -14,9 +14,9 @@ A Independent, test driven project of the [Android Basics in Kotlin] course from
 Environment
 
 - Kotlin 1.6.10
-- Android Studio 20.3.1 Arctic Fox
-- Gradle Plugin 7.0.4
+- Android Studio Bumblebee 2021.1.1
+- Gradle Plugin 7.1.2
 
 ----
 
-updated: 2022-01-21
+updated: 2022-03-08
