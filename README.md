@@ -11,9 +11,9 @@ A Independent, test driven project of the [Android Basics in Kotlin] course from
 
 Environment
 
-- Kotlin 1.7.20
-- Android Studio Dolphin 2021.3.1
-- Gradle Plugin 7.3.1
+- Kotlin 1.8.0
+- Android Studio Dolphin 2022.1.1
+- Gradle Plugin 7.4.2
 
 ----
 
@@ -21,5 +21,5 @@ Environment
 language: kotlin
 repo: dogglers
 status: archived
-updated: 2022-12-03
+updated: 2023-04-04
 ```
