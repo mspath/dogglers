@@ -12,7 +12,7 @@ A Independent, test driven project of the [Android Basics in Kotlin] course from
 Environment
 
 - Kotlin 1.8.0
-- Android Studio Dolphin 2022.1.1
+- Android Studio Electric Eel 2022.1.1
 - Gradle Plugin 7.4.2
 
 ----
